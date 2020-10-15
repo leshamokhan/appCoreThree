@@ -1,0 +1,12 @@
+C:\D\1_MyProject\appCoreThree\appCoreThree.BUL\bin\Release\netcoreapp3.1\appCoreThree.BUL.deps.json
+C:\D\1_MyProject\appCoreThree\appCoreThree.BUL\bin\Release\netcoreapp3.1\appCoreThree.BUL.dll
+C:\D\1_MyProject\appCoreThree\appCoreThree.BUL\bin\Release\netcoreapp3.1\appCoreThree.BUL.pdb
+C:\D\1_MyProject\appCoreThree\appCoreThree.BUL\bin\Release\netcoreapp3.1\appCoreThree.DAL.dll
+C:\D\1_MyProject\appCoreThree\appCoreThree.BUL\bin\Release\netcoreapp3.1\appCoreThree.DAL.pdb
+C:\D\1_MyProject\appCoreThree\appCoreThree.BUL\obj\Release\netcoreapp3.1\appCoreThree.BUL.csprojAssemblyReference.cache
+C:\D\1_MyProject\appCoreThree\appCoreThree.BUL\obj\Release\netcoreapp3.1\appCoreThree.BUL.AssemblyInfoInputs.cache
+C:\D\1_MyProject\appCoreThree\appCoreThree.BUL\obj\Release\netcoreapp3.1\appCoreThree.BUL.AssemblyInfo.cs
+C:\D\1_MyProject\appCoreThree\appCoreThree.BUL\obj\Release\netcoreapp3.1\appCoreThree.BUL.csproj.CoreCompileInputs.cache
+C:\D\1_MyProject\appCoreThree\appCoreThree.BUL\obj\Release\netcoreapp3.1\appCoreThree.BUL.csproj.CopyComplete
+C:\D\1_MyProject\appCoreThree\appCoreThree.BUL\obj\Release\netcoreapp3.1\appCoreThree.BUL.dll
+C:\D\1_MyProject\appCoreThree\appCoreThree.BUL\obj\Release\netcoreapp3.1\appCoreThree.BUL.pdb
